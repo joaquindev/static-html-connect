@@ -1,0 +1,25 @@
+{
+  "name": "static-html-connect",
+  "version": "0.0.1",
+  "description": "This repository holds a boilerplate to create a webserver that serves static html pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/static-html-connect.git"
+  },
+  "keywords": [
+    "static",
+    "connect",
+    "nodejs"
+  ],
+  "author": "joaquindev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "ca813d43195ef042bb46396a62597ed17f2242cf",
+  "dependencies": {
+    "connect": "~2.12.0"
+  }
+}
